@@ -16,3 +16,5 @@ Git - Repository :
 
 Git-Hub : 
 
+"git push origin (branch name) " command to push the files from git repository to remote repository (Github).
+
